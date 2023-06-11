@@ -65,3 +65,7 @@ To get the Node server running locally:
 ## Application Structure 
 
 * server.js - The entry point to our application. This file defines our express server. 
+
+<footer> 
+<p>© 2023 Udayan Das </p>
+</footer> 
