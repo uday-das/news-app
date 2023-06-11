@@ -57,7 +57,7 @@ To get the Node server running locally:
   
 * After starting the server, you should get a message - "Server is running on port 8080" and your app should be now running at [localhost:8080](http://localhost:8080/)
 
-![image](https://github.com/uday-das/news-app/assets/89590597/ece0438e-95f3-4949-9e83-78653880f0f7)
+![image](https://github.com/uday-das/news-app/assets/89590597/41202b69-31ae-4df6-838b-288ed7995ebc)
 
 ## Dependencies 
 * [expressjs](https://github.com/expressjs/express):  The server for handling and routing HTTP requests
