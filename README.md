@@ -8,11 +8,7 @@ API: https://newsapi.org/
 
 ## Screenshots 
 
-<img width="1440" alt="Screenshot 2022-05-20 at 1 21 23 PM" src="https://user-images.githubusercontent.com/70855191/169481461-59bec512-8eb5-41af-9799-9993868b7112.png">
-
-<img width="1440" alt="Screenshot 2022-05-20 at 1 20 33 PM" src="https://user-images.githubusercontent.com/70855191/169481563-d46ac95e-23b5-4661-bbd9-23f92a1a2cef.png">
-<img width="1440" alt="Screenshot 2022-05-20 at 1 20 47 PM" src="https://user-images.githubusercontent.com/70855191/169481593-6224199c-a27e-4f41-85c3-69fb3b65c39d.png">
-
+![image](https://github.com/uday-das/news-app/assets/89590597/0f2c9cc3-0cc4-4f74-8ccc-9591063357c2)
 
 ## Getting Started
 
