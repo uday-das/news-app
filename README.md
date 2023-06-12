@@ -52,7 +52,7 @@ To get the Node server running locally:
 * After installing express, you can start the express server using the following command 
 
   ```
-  node app.js
+  node server.js
   ```
   
 * After starting the server, you should get a message - "Server is running on port 8080" and your app should be now running at [localhost:8080](http://localhost:8080/)
