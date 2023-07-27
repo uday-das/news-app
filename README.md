@@ -8,9 +8,9 @@ API: https://newsapi.org/
 
 ## Screenshots 
 
-![Screenshot1](https://github.com/uday-das/news-app/assets/89590597/f8893b3e-2c85-49bb-805c-cf0e8a68cdde)
+![Screenshot1](Screenshots/Screenshot1.png)
 
-![Screenshot2](https://github.com/uday-das/news-app/assets/89590597/77d20451-0b19-429d-935f-aacdb30bea8d)
+![Screenshot2](Screenshots/Screenshot2.png)
 
 ## Getting Started
 
