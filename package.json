@@ -1,7 +1,7 @@
 {
-  "name": "project-6-(news-app)",
+  "name": "news-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "NewsJunkie is a news app that keeps you updated on global events. Search for specific topics and get curated news articles. Personalized recommendations ensure you stay informed and discover new stories. Stay connected with the News app for accurate and up-to-date news coverage.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
