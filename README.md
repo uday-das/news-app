@@ -8,7 +8,7 @@ API: https://newsapi.org/
 
 ## Screenshots 
 
-![image](https://github.com/uday-das/news-app/assets/89590597/0f2c9cc3-0cc4-4f74-8ccc-9591063357c2)
+
 
 ## Getting Started
 
@@ -55,9 +55,9 @@ To get the Node server running locally:
   node server.js
   ```
   
-* After starting the server, you should get a message - "Server is running on port 8080" and your app should be now running at [localhost:8080](http://localhost:8080/)
+* After starting the server, you should get a message - "Example app listening on port 8080" and your app should be now running at [localhost:8080](http://localhost:8080/)
 
-![image](https://github.com/uday-das/news-app/assets/89590597/41202b69-31ae-4df6-838b-288ed7995ebc)
+
 
 ## Dependencies 
 * [expressjs](https://github.com/expressjs/express):  The server for handling and routing HTTP requests
